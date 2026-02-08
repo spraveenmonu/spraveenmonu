@@ -24,6 +24,5 @@ I'm currently pursuing B.Tech AI&DS.<br>I'm looking for help with secure your di
 ---
 [![](https://visitcount.itsvg.in/api?id=spraveenmonu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
